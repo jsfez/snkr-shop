@@ -9,8 +9,9 @@ const pages = [
   { name: "pricing", path: "/pricing" },
 ];
 
-test("Screenshot pages", async ({ page, browserName }) => {
+test("Screenshot pages", async ({ page }, workerInfo) => {
   for (const { name, path } of pages) {
+    const browserName = workerInfo.project.name;
     await page.goto(`${baseUrl}${path}`);
     await argosScreenshot(page, `${name}-${browserName}`);
   }
