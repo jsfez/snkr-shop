@@ -45,7 +45,7 @@ export const data = {
       slug: "patta-x-air-jordan-7-retro-og-sp-shimmer-patta-aj7-shm",
       status: "active",
       story_html:
-        "Amsterdam-based boutique and streetwear brand, Patta joins forces with Jordan Brand to lend their signature aesthetic to the Patta x Air Jordan 7 Retro OG SP &#39;Shimmer&#39; sneaker. Part of a limited-edition capsule collection released in May 2019, this rendition sports an earth-toned color palette of Shimmer, Mahogany Mink, Velvet Brown and Tough Red hues on a premium leather and suede upper. Unique perforation patterns and an offset Jumpman logo accent the underlay, while signature Patta script dresses the triple-tone midsole. A durable rubber outsole equipped with Air technology reinforces the design, which is inspired by Michael Jordan&#39;s run with the Dream Team at the 1992 Summer Games in Barcelona.",
+        "Amsterdam-based boutique and streetwear brand, Patta joins forces with Jordan Brand to lend their signature aesthetic to the Patta x Air Jordan 7 Retro OG SP ’Shimmer’ sneaker. Part of a limited-edition capsule collection released in May 2019, this rendition sports an earth-toned color palette of Shimmer, Mahogany Mink, Velvet Brown and Tough Red hues on a premium leather and suede upper. Unique perforation patterns and an offset Jumpman logo accent the underlay, while signature Patta script dresses the triple-tone midsole. A durable rubber outsole equipped with Air technology reinforces the design, which is inspired by Michael Jordan’s run with the Dream Team at the 1992 Summer Games in Barcelona.",
       upper_material: null,
     },
     {
@@ -169,7 +169,7 @@ export const data = {
       slug: "wmns-air-jordan-11-retro-low-orange-trance-ah7860-106",
       status: "active",
       story_html:
-        "An original colorway of the Air Jordan 11 Low back in 2001, this low-cut style is revived with the ladies’-exclusive Wmns Air Jordan 11 Retro Low &#39;Pink Snakeskin&#39; sneaker. Released in May 2019, its smooth white leather upper is decorated with glossy snakeskin mudguards. Below, the shoe rides along a foam midsole and translucent outsole.",
+        "An original colorway of the Air Jordan 11 Low back in 2001, this low-cut style is revived with the ladies’-exclusive Wmns Air Jordan 11 Retro Low ’Pink Snakeskin’ sneaker. Released in May 2019, its smooth white leather upper is decorated with glossy snakeskin mudguards. Below, the shoe rides along a foam midsole and translucent outsole.",
       upper_material: "",
     },
     {
@@ -254,7 +254,7 @@ export const data = {
       slug: "wmns-air-jordan-12-retro-reptile-ao6068-007",
       status: "active",
       story_html:
-        "The Wmns Air Jordan 12 Retro &#39;Reptile&#39; sneaker draws details from the 1996 classic and elevates them with luxe style additions. This April 2019-released, women&#39;s-exclusive shoe features the AJ12’s original stitching, inspired by the Rising Sun Flag of Japan. Its black leather upper is laden with exotic reptile-inspired texture and embellished with gold accents. This edition is completed with classic Zoom cushioning and sections of herringbone tread.",
+        "The Wmns Air Jordan 12 Retro ’Reptile’ sneaker draws details from the 1996 classic and elevates them with luxe style additions. This April 2019-released, women’s-exclusive shoe features the AJ12’s original stitching, inspired by the Rising Sun Flag of Japan. Its black leather upper is laden with exotic reptile-inspired texture and embellished with gold accents. This edition is completed with classic Zoom cushioning and sections of herringbone tread.",
       upper_material: null,
     },
     {
@@ -389,7 +389,7 @@ export const data = {
       slug: "air-jordan-1-retro-high-og-shadow-2018-555088-013",
       status: "active",
       story_html:
-        "This Nike Air Jordan 1 Retro High OG &#39;Shadow&#39; 2018 is a retro re-release of an original 1985 colorway. The shoe features a black and medium grey leather upper with a white midsole and black outsole. It also features OG Nike Air branding on the tongue and the Wings logo on the ankle collar. It was last retroed in 2013, and a low-top version dropped in 2015.",
+        "This Nike Air Jordan 1 Retro High OG ’Shadow’ 2018 is a retro re-release of an original 1985 colorway. The shoe features a black and medium grey leather upper with a white midsole and black outsole. It also features OG Nike Air branding on the tongue and the Wings logo on the ankle collar. It was last retroed in 2013, and a low-top version dropped in 2015.",
       upper_material: "Leather",
     },
     {
@@ -780,7 +780,7 @@ export const data = {
       slug: "travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406",
       status: "active",
       story_html:
-        "Music artist Travis Scott hails from Houston, where the Oilers used to take the field in red, white and blue uniforms. The Travis Scott x Air Jordan 4 Retro &#39;Cactus Jack&#39; colorway pays tribute to the city’s bygone football team with a Durabuck leather upper dressed in University Blue and a Varsity Red insole. The black lace cage and a heel panel feature a light blue speckle pattern. Cactus Jack branding appears on the left heel in Varsity Red, with a matching Jumpman logo on the right.",
+        "Music artist Travis Scott hails from Houston, where the Oilers used to take the field in red, white and blue uniforms. The Travis Scott x Air Jordan 4 Retro ’Cactus Jack’ colorway pays tribute to the city’s bygone football team with a Durabuck leather upper dressed in University Blue and a Varsity Red insole. The black lace cage and a heel panel feature a light blue speckle pattern. Cactus Jack branding appears on the left heel in Varsity Red, with a matching Jumpman logo on the right.",
       upper_material: "",
     },
     {
@@ -820,7 +820,7 @@ export const data = {
       slug: "air-jordan-1-retro-high-og-rookie-of-the-year-555088-700",
       status: "active",
       story_html:
-        "In 1985, Michael Jordan received the NBA’s Rookie of the Year Award after launching his career with a remarkable point per game average and a thirst for success. To celebrate, Jordan Brand released the Air Jordan 1 Retro High OG &#39;Rookie of the Year.&#39; The high top features a white-based leather upper with perforations on the toe box for breathability and Gold Harvest leather overlays on the mudguard, ankle, eyestay, and heel. Hidden on the inside of each strap on the upper are callouts to MJ’s outstanding rookie season. ‘1984-85 R.O.Y. 2313 POINTS 28.2 PPG’ can be found on the inside of one strap, and a quote from Jordan can be found on the other.",
+        "In 1985, Michael Jordan received the NBA’s Rookie of the Year Award after launching his career with a remarkable point per game average and a thirst for success. To celebrate, Jordan Brand released the Air Jordan 1 Retro High OG ’Rookie of the Year.’ The high top features a white-based leather upper with perforations on the toe box for breathability and Gold Harvest leather overlays on the mudguard, ankle, eyestay, and heel. Hidden on the inside of each strap on the upper are callouts to MJ’s outstanding rookie season. ‘1984-85 R.O.Y. 2313 POINTS 28.2 PPG’ can be found on the inside of one strap, and a quote from Jordan can be found on the other.",
       upper_material: "",
     },
     {
@@ -1123,7 +1123,7 @@ export const data = {
       slug: "air-jordan-11-retro-low-snakeskin-2019-cd6846-002",
       status: "active",
       story_html:
-        "The Air Jordan 11 Retro Low&#39;s iconic identity was founded when Michael Jordan returned to the game in 1995. Surfacing in June 2019, this &#39;Light Bone Snakeskin&#39; variant reaffirms the classic&#39;s allure with a contemporary snakeskin print on the leather upper&#39;s mudguard. Rope laces winding through the lateral webbing customize fit. Signature Jumpman insignias are positioned on the tongue and heel. A translucent rubber outsole and carbon fiber plate form the base.",
+        "The Air Jordan 11 Retro Low’s iconic identity was founded when Michael Jordan returned to the game in 1995. Surfacing in June 2019, this ’Light Bone Snakeskin’ variant reaffirms the classic’s allure with a contemporary snakeskin print on the leather upper’s mudguard. Rope laces winding through the lateral webbing customize fit. Signature Jumpman insignias are positioned on the tongue and heel. A translucent rubber outsole and carbon fiber plate form the base.",
       upper_material: "",
     },
     {
@@ -1186,7 +1186,7 @@ export const data = {
       slug: "air-jordan-1-retro-high-sb-light-bone-cd6578-006",
       status: "active",
       story_html:
-        "The Air Jordan SB 1 Retro High is representative of the decades-old influence that the iconic shoe has had on skate culture. Revealed in May 2019, this &#39;Light Bone&#39; update is formed by a classic leather upper treated with a wear-away finish concealing an alternate tint. Custom branding resurfaces via the lateral Swooshes, Jumpman tongue label and Wings logo. The encapsulated Air unit and concentric circle outsole are mainstays on this classic silhouette.",
+        "The Air Jordan SB 1 Retro High is representative of the decades-old influence that the iconic shoe has had on skate culture. Revealed in May 2019, this ’Light Bone’ update is formed by a classic leather upper treated with a wear-away finish concealing an alternate tint. Custom branding resurfaces via the lateral Swooshes, Jumpman tongue label and Wings logo. The encapsulated Air unit and concentric circle outsole are mainstays on this classic silhouette.",
       upper_material: null,
     },
     {
@@ -1430,7 +1430,7 @@ export const data = {
       slug: "air-jordan-retro-4-og-cement-2016-836015-192",
       status: "active",
       story_html:
-        "The Air Jordan 4 Retro OG &#39;Cement’ 2016 was one of the original four colorways released in 1989. The sneaker features the original White, Fire Red, Black, and Tech Grey colorway, with the speckled Cement Grey accents that give the sneaker its nickname. Released during the 2016 NBA All-Star weekend in Toronto, the sneaker was also retro’d in 1999 and 2012. The 1999 and 2016 retros are the only models that feature the ‘Nike Air’ branding on the heel, just like the 1989 OG sneakers.",
+        "The Air Jordan 4 Retro OG ’Cement’ 2016 was one of the original four colorways released in 1989. The sneaker features the original White, Fire Red, Black, and Tech Grey colorway, with the speckled Cement Grey accents that give the sneaker its nickname. Released during the 2016 NBA All-Star weekend in Toronto, the sneaker was also retro’d in 1999 and 2012. The 1999 and 2016 retros are the only models that feature the ‘Nike Air’ branding on the heel, just like the 1989 OG sneakers.",
       upper_material: "",
     },
     {
@@ -1601,7 +1601,7 @@ export const data = {
       slug: "gucci-pursuit-72-rubber-slides-black-308234-gib10-1098",
       status: "active",
       story_html:
-        "The Gucci Pursuit ‘72 Rubber Slide in ‘Black’ sneaker pays homage to the fashion house&#39;s roots with the iconic Web stripe—first developed by Gucci in the 1950s—taking the stage. The minimal, open-toe silhouette features a thick black rubber sole with a rounded shape. The top portion of the slide is a rubber strap displaying the Gucci Web green and red striped motif, and the design is finished with a Gucci logo embossed on the outer midsole.",
+        "The Gucci Pursuit ‘72 Rubber Slide in ‘Black’ sneaker pays homage to the fashion house’s roots with the iconic Web stripe—first developed by Gucci in the 1950s—taking the stage. The minimal, open-toe silhouette features a thick black rubber sole with a rounded shape. The top portion of the slide is a rubber strap displaying the Gucci Web green and red striped motif, and the design is finished with a Gucci logo embossed on the outer midsole.",
       upper_material: "",
     },
     {
@@ -1680,7 +1680,7 @@ export const data = {
       slug: "air-max-97-neon-seoul-am-97-seoul",
       status: "active",
       story_html:
-        "In celebration of Air Max Day, Nike hosted the Nike: On Air contest in 2018, giving residents the chance to create their own Air Max designs inspired by their hometowns. After working alongside Nike developers, winner Gwang Shin debuted his Nike Air Max 97 &#39;Neon Seoul&#39; sneaker in April 2019. Paying tribute to his city, Seoul, Shin draws influences from the famed neon signs in South Korea’s capital, decorating the leather upper with vivid-colored piping.",
+        "In celebration of Air Max Day, Nike hosted the Nike: On Air contest in 2018, giving residents the chance to create their own Air Max designs inspired by their hometowns. After working alongside Nike developers, winner Gwang Shin debuted his Nike Air Max 97 ’Neon Seoul’ sneaker in April 2019. Paying tribute to his city, Seoul, Shin draws influences from the famed neon signs in South Korea’s capital, decorating the leather upper with vivid-colored piping.",
       upper_material: null,
     },
     {
@@ -1728,7 +1728,7 @@ export const data = {
       slug: "air-fear-of-god-strap-black-at8087-002",
       status: "active",
       story_html:
-        "Nike and frequent collaborator Fear Of God designer, Jerry Lorenzo, joined forces once again for the Air Fear Of God Raid &#39;Black&#39; sneaker. Released in May 2019, the uniquely designed silhouette is inspired by one of Lorenzo’s favorite Nike designs, the Air Raid. Outfitted with a cross strap suede and textile upper above; below, its equipped with a double stacked Zoom Air unit in heel for a retro, yet futuristic finish.",
+        "Nike and frequent collaborator Fear Of God designer, Jerry Lorenzo, joined forces once again for the Air Fear Of God Raid ’Black’ sneaker. Released in May 2019, the uniquely designed silhouette is inspired by one of Lorenzo’s favorite Nike designs, the Air Raid. Outfitted with a cross strap suede and textile upper above; below, its equipped with a double stacked Zoom Air unit in heel for a retro, yet futuristic finish.",
       upper_material: "",
     },
     {
@@ -1972,7 +1972,7 @@ export const data = {
       slug: "atmos-x-air-max-2-light-logos-bv7406-001",
       status: "active",
       story_html:
-        "First spotted on the feet of atmos creative director Hirofumi Kojima during ComplexCon 2018, the atmos x Air Max 2 Light &#39;Logos&#39; releases as part of Air Max Day 2019. The upper showcases a patchwork design made up of different mismatched panels inspired by vintage Nike graphics, with a translucent overlay and Bright Crimson Swoosh. Other details include a sculpted white midsole housing a heel Max Air unit, and the tongue features a sewn on colorful AIR MAX 2 patch.",
+        "First spotted on the feet of atmos creative director Hirofumi Kojima during ComplexCon 2018, the atmos x Air Max 2 Light ’Logos’ releases as part of Air Max Day 2019. The upper showcases a patchwork design made up of different mismatched panels inspired by vintage Nike graphics, with a translucent overlay and Bright Crimson Swoosh. Other details include a sculpted white midsole housing a heel Max Air unit, and the tongue features a sewn on colorful AIR MAX 2 patch.",
       upper_material: "",
     },
     {
@@ -2057,7 +2057,7 @@ export const data = {
       slug: "air-max-90-qs-mars-landing-cd0920-600",
       status: "active",
       story_html:
-        "The Nike Air Max 90 QS &#39;Mars Landing&#39; sneaker was released in March 2019 as an homage to the rover landing expedition on Mars. Fusing elements of the 1990 classic with official imagery of the Red Planet, the shoe swaps traditional stitching for a seamless finish, molded to imitate the original’s overlay design. A Mars Rover wheel inspired graphic highlights the outsole, which sits below a starry space inspired midsole. The Magma Orange was matched as close as possible to actual surface photos of Mars, while reflective 3M hits on the tongue and back tab provide contrast. ",
+        "The Nike Air Max 90 QS ’Mars Landing’ sneaker was released in March 2019 as an homage to the rover landing expedition on Mars. Fusing elements of the 1990 classic with official imagery of the Red Planet, the shoe swaps traditional stitching for a seamless finish, molded to imitate the original’s overlay design. A Mars Rover wheel inspired graphic highlights the outsole, which sits below a starry space inspired midsole. The Magma Orange was matched as close as possible to actual surface photos of Mars, while reflective 3M hits on the tongue and back tab provide contrast. ",
       upper_material: "",
     },
     {
@@ -2394,7 +2394,7 @@ export const data = {
       slug: "nike-air-force-1-315122-111",
       status: "active",
       story_html:
-        "The Nike Air Force 1 Low is a modern take on the iconic white on white low top Air Force 1. Released in honor of the classic shoe&#39;s 25th anniversary in 2007, the sneaker features an upgraded, crispier 10A full grain leather white upper with a matching white Air-cushioned rubber sole.",
+        "The Nike Air Force 1 Low is a modern take on the iconic white on white low top Air Force 1. Released in honor of the classic shoe’s 25th anniversary in 2007, the sneaker features an upgraded, crispier 10A full grain leather white upper with a matching white Air-cushioned rubber sole.",
       upper_material: "",
     },
     {
@@ -2502,7 +2502,7 @@ export const data = {
       slug: "air-fear-of-god-strap-light-bone-at8087-001",
       status: "active",
       story_html:
-        "Created by acclaimed streetwear designer Jerry Lorenzo for release in April 2019, the Air Fear of God Raid &#39;Light Bone&#39; draws inspiration from Lorenzo&#39;s favorite silhouette, the Air Raid outdoor basketball shoe first introduced in 1992. Incorporating the same distinct cross straps into the Light Bone upper, a contrasting black Swoosh stands out along with the visible double-stacked Zoom Air units. Modern design lines combine with premium comfort to define this lifestyle shoe.",
+        "Created by acclaimed streetwear designer Jerry Lorenzo for release in April 2019, the Air Fear of God Raid ’Light Bone’ draws inspiration from Lorenzo’s favorite silhouette, the Air Raid outdoor basketball shoe first introduced in 1992. Incorporating the same distinct cross straps into the Light Bone upper, a contrasting black Swoosh stands out along with the visible double-stacked Zoom Air units. Modern design lines combine with premium comfort to define this lifestyle shoe.",
       upper_material: "",
     },
     {
@@ -2549,7 +2549,7 @@ export const data = {
       slug: "air-fear-of-god-moccasin-pure-platinum-afog-moc-plat",
       status: "active",
       story_html:
-        "From streetwear fashion designer Jerry Lorenzo comes the Air Fear of God Moc &#39;Pure Platinum,&#39; released on April 27th, 2019, as part of the second wave of his collaboration with Nike. With a Pure Platinum upper over a Sail midsole and outsole, this lifestyle Moc gets its bounce from stacked visible Zoom Air units in the heel. A toggle drawstring in back allows for on-the-spot adjustments to its streamlined textile upper, which features a forefoot strap for lockdown and a snap button on the side for easy on/off.",
+        "From streetwear fashion designer Jerry Lorenzo comes the Air Fear of God Moc ’Pure Platinum,’ released on April 27th, 2019, as part of the second wave of his collaboration with Nike. With a Pure Platinum upper over a Sail midsole and outsole, this lifestyle Moc gets its bounce from stacked visible Zoom Air units in the heel. A toggle drawstring in back allows for on-the-spot adjustments to its streamlined textile upper, which features a forefoot strap for lockdown and a snap button on the side for easy on/off.",
       upper_material: "",
     },
     {
@@ -2657,7 +2657,7 @@ export const data = {
       slug: "air-max-97-triple-white-921826-101",
       status: "active",
       story_html:
-        "The Nike Air Max 97 &#39;Triple White&#39; features a white leather and mesh upper with Wolf Grey accents. Released in August of 2017, the sneaker also includes a full-length white Air Max unit. ",
+        "The Nike Air Max 97 ’Triple White’ features a white leather and mesh upper with Wolf Grey accents. Released in August of 2017, the sneaker also includes a full-length white Air Max unit. ",
       upper_material: "",
     },
     {
@@ -2697,7 +2697,7 @@ export const data = {
       slug: "air-max-270-white-ah8050-100",
       status: "active",
       story_html:
-        "Released in March 2018, the the Air Max 270 &#39;White&#39; takes inspiration from both the Air Max 180 and Air Max 93. The white mesh upper offers a matching asymmetrical lacing unit, accented by gray hits on the heel pull tab and Swoosh logos on the toe box and side panel. Other details include &#39;Air 270&#39; branding on the tongue, heel and pull tab. A white rubber outsole in the forefront and transparent Air Max sole unit on the heel round out the minimal aesthetic.",
+        "Released in March 2018, the the Air Max 270 ’White’ takes inspiration from both the Air Max 180 and Air Max 93. The white mesh upper offers a matching asymmetrical lacing unit, accented by gray hits on the heel pull tab and Swoosh logos on the toe box and side panel. Other details include ’Air 270’ branding on the tongue, heel and pull tab. A white rubber outsole in the forefront and transparent Air Max sole unit on the heel round out the minimal aesthetic.",
       upper_material: "",
     },
     {
@@ -2782,7 +2782,7 @@ export const data = {
       slug: "yeezy-boost-350-v2-black-yzy-350-v2-blk",
       status: "active",
       story_html:
-        "The adidas Yeezy Boost 350 V2 lives up to its cult appeal through evolved design elements and advanced technology. Released June 2019, this ‘Black Non-Reflective&#39; edition&#39;s re-engineered Primeknit bootie sees futuristic updates including a translucent side stripe and bold stitching on the heel pull. Integrated lacing customizes the fit while a translucent black Boost-equipped midsole complements the covert feel.",
+        "The adidas Yeezy Boost 350 V2 lives up to its cult appeal through evolved design elements and advanced technology. Released June 2019, this ‘Black Non-Reflective’ edition’s re-engineered Primeknit bootie sees futuristic updates including a translucent side stripe and bold stitching on the heel pull. Integrated lacing customizes the fit while a translucent black Boost-equipped midsole complements the covert feel.",
       upper_material: "Primeknit",
     },
     {
@@ -2868,7 +2868,7 @@ export const data = {
       slug: "yeezy-boost-350-v2-b37571",
       status: "active",
       story_html:
-        "The 5th Yeezy to drop since November 2017 — Yeezy Boost 350 V2 &#39;Semi Frozen Yellow&#39; and ‘Beluga 2.0,’ Yeezy Powerphase Calabasas, and the Yeezy 500 ‘Desert Rat’ — the Yeezy Boost 350 V2 &#39;Blue Tint&#39; was dropped on December 16th, 2017. The sneaker features a neutral white and grey upper with a red ‘SPLY-350’ text on the side in reverse. The shoe also comes with a heel tab, blue tint inner lining, and paste blue laces.",
+        "The 5th Yeezy to drop since November 2017 — Yeezy Boost 350 V2 ’Semi Frozen Yellow’ and ‘Beluga 2.0,’ Yeezy Powerphase Calabasas, and the Yeezy 500 ‘Desert Rat’ — the Yeezy Boost 350 V2 ’Blue Tint’ was dropped on December 16th, 2017. The sneaker features a neutral white and grey upper with a red ‘SPLY-350’ text on the side in reverse. The shoe also comes with a heel tab, blue tint inner lining, and paste blue laces.",
       upper_material: "Primeknit",
     },
     {
@@ -2975,7 +2975,7 @@ export const data = {
       slug: "yeezy-boost-700-analog-yeezy-boost-700-analog",
       status: "active",
       story_html:
-        "Music and fashion icon Kanye West debuted the Yeezy Boost 700 at his Yeezy Season 5 fashion show in February 2017. This &#39;Analog&#39; colorway released April 2019, and provides a monochromatic look to the acclaimed shoe. Dressed in shades of off white, the upper features a variety of panels constructed of leather, mesh, suede with a small hit of reflective material near the heel. Full-length Boost cushioning is embedded in the signature chunky midsole while a black rubber outsole provides contrast.",
+        "Music and fashion icon Kanye West debuted the Yeezy Boost 700 at his Yeezy Season 5 fashion show in February 2017. This ’Analog’ colorway released April 2019, and provides a monochromatic look to the acclaimed shoe. Dressed in shades of off white, the upper features a variety of panels constructed of leather, mesh, suede with a small hit of reflective material near the heel. Full-length Boost cushioning is embedded in the signature chunky midsole while a black rubber outsole provides contrast.",
       upper_material: "",
     },
     {
@@ -3085,7 +3085,7 @@ export const data = {
       slug: "yeezy-boost-350-v2-beluga-2-0-ah2203",
       status: "active",
       story_html:
-        "With its name coming from the colorway similarities found on the first Yeezy Boost 350 V2, the Yeezy Boost 350 V2 &#39;Beluga 2.0&#39; dropped on November 25, 2017. It was quickly restocked on November 30th after selling out. The shoe features a muted grey stripe on the laterals instead of the bright orange stripe found on the original ‘Beluga’ sneaker. The Yeezy Boost 350 V2 &#39;Beluga 2.0&#39; also features a heel pull tab with orange stitching and orange ‘SPLY-350’ lettering in reverse on the laterals. ",
+        "With its name coming from the colorway similarities found on the first Yeezy Boost 350 V2, the Yeezy Boost 350 V2 ’Beluga 2.0’ dropped on November 25, 2017. It was quickly restocked on November 30th after selling out. The shoe features a muted grey stripe on the laterals instead of the bright orange stripe found on the original ‘Beluga’ sneaker. The Yeezy Boost 350 V2 ’Beluga 2.0’ also features a heel pull tab with orange stitching and orange ‘SPLY-350’ lettering in reverse on the laterals. ",
       upper_material: "Primeknit",
     },
     {
@@ -3694,7 +3694,7 @@ export const data = {
       slug: "nmd_r1-blizzard-b79759",
       status: "active",
       story_html:
-        "adidas dropped the NMD_R1 &#39;Blizzard&#39; colorway in January 2018. It features a stretch mesh upper made from twisted two-tone yarn for a unique textured effect reminiscent of medieval chainmail armor. It also comes with a Carbon tongue patch with a Trefoil, Welded Core Black Three-Stripes on the side panel, and a molded matte black heel patch. Underfoot, the shoe boasts a white Boost midsole with Carbon EVA midsole bumpers and an all-black rubber outsole.",
+        "adidas dropped the NMD_R1 ’Blizzard’ colorway in January 2018. It features a stretch mesh upper made from twisted two-tone yarn for a unique textured effect reminiscent of medieval chainmail armor. It also comes with a Carbon tongue patch with a Trefoil, Welded Core Black Three-Stripes on the side panel, and a molded matte black heel patch. Underfoot, the shoe boasts a white Boost midsole with Carbon EVA midsole bumpers and an all-black rubber outsole.",
       upper_material: "",
     },
   ],
