@@ -1,8 +1,20 @@
 import { useDispatch, useSelector } from "react-redux";
 import { addToCart } from "../redux/slices/CartSlice";
 import toast from "react-hot-toast";
+import { z } from "zod";
 
-const PreviewCard = ({ shoe }) => {
+const SneakerSchema = z.object({
+  id: z.number(),
+  picture: z.string(),
+  retail_price_cents: z.number(),
+  description: z.string(),
+  brand: z.string(),
+  gender: z.array(z.string()),
+});
+
+const PreviewCard = ({ sneakers }) => {
+  const shoe = SneakerSchema.parse(sneakers);
+
   const cart = useSelector((state) => state.cart);
 
   const dispatch = useDispatch();
@@ -17,17 +29,15 @@ const PreviewCard = ({ shoe }) => {
     }
   };
 
-  const img = shoe.original_picture_url;
+  const img = shoe.picture;
   const price = shoe.retail_price_cents;
-  const desc = shoe.story_html;
+  const desc = shoe.description;
   const name = shoe.name;
   const brand = shoe.brand_name;
   const gender = shoe.gender[0];
 
   // const sizeRange = shoe.size_range.sort((a, b) => a - b);
   // const sizes = sizeRange.filter((size) => Math.floor(size) === size);
-
-  // // console.log(sizes);
 
   return (
     <div>

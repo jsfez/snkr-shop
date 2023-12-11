@@ -10,7 +10,6 @@ export const store = configureStore({
 // Use subscribe to listen for changes in the store
 store.subscribe(() => {
   const state = store.getState();
-  console.log(state);
   localStorage.setItem("localCart", JSON.stringify(state.cart));
 });
 

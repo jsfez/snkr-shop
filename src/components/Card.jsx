@@ -6,10 +6,9 @@ import { decodeHtml } from "../util";
 
 const Card = ({ shoe }) => {
   const cart = useSelector((state) => state.cart);
-  // console.log(shoe);
-  const img = shoe.original_picture_url;
+  const img = shoe.picture;
   const price = shoe.retail_price_cents;
-  const desc = decodeHtml(shoe.story_html);
+  const desc = decodeHtml(shoe.description);
   const id = shoe.id;
 
   const dispatch = useDispatch();
