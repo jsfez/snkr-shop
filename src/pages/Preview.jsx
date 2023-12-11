@@ -9,7 +9,7 @@ const Preview = () => {
   const sneakers = data.sneakers;
 
   const filteredItems = sneakers.filter(
-    (s) => s.retail_price_cents !== null && s.story_html !== null,
+    (s) => s.retail_price_cents !== null && s.description !== null,
   );
 
   const qtyUpdate = filteredItems.map((item) => {
@@ -21,7 +21,7 @@ const Preview = () => {
 
   return (
     <div className="">
-      <PreviewCard shoe={shoe} />
+      <PreviewCard sneakers={shoe} />
     </div>
   );
 };

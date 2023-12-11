@@ -5,7 +5,7 @@ const Explore = () => {
   const sneakers = data.sneakers;
 
   const filteredItems = sneakers.filter(
-    (s) => s.retail_price_cents !== null && s.story_html !== null,
+    (s) => s.retail_price_cents !== null && s.description !== null,
   );
 
   const items = filteredItems.map((item) => {

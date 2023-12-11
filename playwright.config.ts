@@ -53,10 +53,10 @@ export default defineConfig({
     //   name: 'Mobile Chrome',
     //   use: { ...devices['Pixel 5'] },
     // },
-    {
-      name: "iphone-12",
-      use: { ...devices["iPhone 12"] },
-    },
+    // {
+    //   name: "iphone-12",
+    //   use: { ...devices["iPhone 12"] },
+    // },
 
     /* Test against branded browsers. */
     // {
