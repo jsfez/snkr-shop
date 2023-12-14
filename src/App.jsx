@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import { Routes, Route } from "react-router-dom";
-import { Cart, Explore, Home, Preview } from "./pages/index";
+import { Cart, Explore, Home, MissingShoes, Preview } from "./pages/index";
 
 const App = () => {
   return (
@@ -11,6 +11,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/explore" element={<Explore />} />
         <Route path="/cart" element={<Cart />} />
+        <Route path="/preview/404758" element={<MissingShoes />} />
         <Route path="/preview/:id" element={<Preview />} />
       </Routes>
     </div>
