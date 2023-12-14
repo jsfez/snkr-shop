@@ -2,13 +2,14 @@ import { useDispatch, useSelector } from "react-redux";
 import { addToCart, removeFromCart } from "../redux/slices/CartSlice";
 import toast from "react-hot-toast";
 import { Link } from "react-router-dom";
+import { decodeHtml } from "../util";
 
 const Card = ({ shoe }) => {
   const cart = useSelector((state) => state.cart);
   // console.log(shoe);
   const img = shoe.original_picture_url;
   const price = shoe.retail_price_cents;
-  const desc = shoe.story_html;
+  const desc = decodeHtml(shoe.story_html);
   const id = shoe.id;
 
   const dispatch = useDispatch();
