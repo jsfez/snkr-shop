@@ -13,6 +13,6 @@ test("Screenshot pages", async ({ page }, workerInfo) => {
   for (const { name, path } of pages) {
     const browserName = workerInfo.project.name;
     await page.goto(`${baseUrl}${path}`);
-    await argosScreenshot(page, `${name}-${browserName}`, { fullPage: false });
+    await argosScreenshot(page, `${name}-${browserName}`);
   }
 });
