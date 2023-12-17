@@ -1,7 +1,6 @@
 import { test } from "@playwright/test";
 import { argosScreenshot } from "@argos-ci/playwright";
 
-const baseUrl = "http://localhost:5173";
 const pages = [
   { name: "homepage", path: "/" },
   { name: "list", path: "/explore" },
@@ -11,7 +10,13 @@ const pages = [
 test("Screenshot pages", async ({ page }, workerInfo) => {
   for (const { name, path } of pages) {
     const browserName = workerInfo.project.name;
-    await page.goto(`${baseUrl}${path}`);
-    await argosScreenshot(page, `${name}-${browserName}`, { fullPage: false });
+    await page.goto(path);
+    await argosScreenshot(page, name, {
+      fullPage: false,
+      viewports: [
+        { width: 390, height: 844, orientation: "landscape" },
+        { width: 1440, height: 1080 },
+      ],
+    });
   }
 });

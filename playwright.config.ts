@@ -25,6 +25,7 @@ export default defineConfig({
     : "list",
   // Setup recording option to enable test debugging features
   use: {
+    baseURL: "http://localhost:5173",
     // Setting to capture screenshot only when a test fails
     screenshot: "only-on-failure",
     // Setting to retain traces only when a test fails
@@ -56,10 +57,10 @@ export default defineConfig({
     //   name: 'Mobile Chrome',
     //   use: { ...devices['Pixel 5'] },
     // },
-    {
-      name: "iphone-12",
-      use: { ...devices["iPhone 12"] },
-    },
+    // {
+    //   name: "iphone-12",
+    //   use: { ...devices["iPhone 12"] },
+    // },
 
     /* Test against branded browsers. */
     // {
