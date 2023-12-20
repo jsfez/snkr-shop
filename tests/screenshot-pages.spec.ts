@@ -4,7 +4,7 @@ import { argosScreenshot } from "@argos-ci/playwright";
 const pages = [
   { name: "homepage", path: "/" },
   { name: "list", path: "/explore" },
-  { name: "product-detail", path: "/preview/404758" },
+  { name: "product-detail", path: "/preview/485842" },
 ];
 
 test("Screenshot pages", async ({ page }, workerInfo) => {
