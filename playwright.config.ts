@@ -19,17 +19,17 @@ export default defineConfig({
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
-  // Add Argos reporter only when it runs on CI
-  reporter: process.env.CI
-    ? [["list"], ["@argos-ci/playwright/reporter"]]
-    : "list",
-  // Setup recording option to enable test debugging features
+  // Reporter to use
+  reporter: [
+    ["html"],
+    ["@argos-ci/playwright/reporter", { uploadToArgos: !!process.env.CI }],
+  ],
+
+  // Setup test debugging on CI.
   use: {
     baseURL: "http://localhost:5173",
-    // Setting to capture screenshot only when a test fails
+    trace: "on-first-retry",
     screenshot: "only-on-failure",
-    // Setting to retain traces only when a test fails
-    trace: "retain-on-failure",
   },
 
   /* Configure projects for major browsers */
