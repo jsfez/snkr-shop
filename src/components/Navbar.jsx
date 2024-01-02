@@ -38,7 +38,7 @@ const Navbar = () => {
           <Link to="/explore">Explore</Link>
         </li>
         <li>
-          <Link to="/cart">
+          <Link to="/cart" aria-label="cart">
             <div className="relative">
               <FaShoppingCart className="text-xl " />
               {cart.length > 0 && (
