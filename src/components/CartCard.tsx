@@ -1,9 +1,9 @@
 import products from '@/assets/data.json';
 import { CartItem } from '@/lib/types';
 import { Trash, Trash2 } from 'lucide-react';
-import Image from 'next/image';
 import Link from 'next/link';
 
+import { ProductImage } from './ProductImage';
 import { Button } from './ui/button';
 import { Card } from './ui/card';
 
@@ -20,14 +20,11 @@ export const CartCard = ({
 
   return (
     <Card key={item.id} className="bg-slate-100 p-4" role="listitem">
-      <div className="flex h-[150] items-center">
-        <Image
-          src={product.original_picture_url}
-          alt={product.name}
-          width={160}
-          height={160}
-        />
-      </div>
+      <ProductImage
+        src={product.original_picture_url}
+        alt={product.name}
+        className="h-[150px]"
+      />
 
       <h4 className="mb-2 font-semibold">{product.name}</h4>
       <div className="relative line-clamp-3 items-end text-sm">

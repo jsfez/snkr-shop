@@ -2,6 +2,7 @@
 
 import { useCart } from '@/components/CartContext';
 import { Main } from '@/components/Main';
+import { ProductImage } from '@/components/ProductImage';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
@@ -14,7 +15,6 @@ import {
   ChevronLeft,
   Heart,
 } from 'lucide-react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { useParams, useRouter } from 'next/navigation';
 import { useState } from 'react';
@@ -112,15 +112,11 @@ const DetailCard = ({
           </Link>
         </Button>
         <div className="grid grid-cols-1 gap-x-6 px-5 py-10 md:grid-cols-2">
-          <div className="flex h-[220px] items-center justify-center">
-            <Image
-              src={img}
-              width={350}
-              height={350}
-              alt="sneakers-preview"
-              className="-my-8 object-cover md:my-0"
-            />
-          </div>
+          <ProductImage
+            src={img}
+            alt="sneakers-preview"
+            className="h-[220px]"
+          />
 
           <div>
             <div className="text-sm uppercase text-muted-foreground">
