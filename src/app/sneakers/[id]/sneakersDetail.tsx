@@ -118,7 +118,7 @@ const DetailCard = ({
               width={350}
               height={350}
               alt="sneakers-preview"
-              className="-my-8 object-cover md:my-0"
+              className="-my-8 h-[350px] w-[350px] max-w-none shrink-0 object-cover md:my-0"
             />
           </div>
 
