@@ -13,6 +13,7 @@ import {
   BadgeX,
   ChevronLeft,
   Heart,
+  Share2,
 } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -110,6 +111,14 @@ const DetailCard = ({
           <Link href="/sneakers">
             <ChevronLeft className="size-4" /> Return
           </Link>
+        </Button>
+        <Button
+          size="lg"
+          variant="outline"
+          className="absolute bottom-4 right-5 gap-2"
+        >
+          <Share2 className="size-4" />
+          SHARE
         </Button>
         <div className="grid grid-cols-1 gap-x-6 px-5 py-10 md:grid-cols-2">
           <div className="flex h-[220px] items-center justify-center">
