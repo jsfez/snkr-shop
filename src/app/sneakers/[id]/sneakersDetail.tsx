@@ -148,6 +148,9 @@ const DetailCard = ({
 
           <div className="mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
             <div className="flex gap-1">
+              <Button size="icon" className="h-11">
+                <Heart />
+              </Button>
               {itemFromCart ? (
                 <Button
                   size="lg"
@@ -161,9 +164,6 @@ const DetailCard = ({
                   ADD TO CART
                 </Button>
               )}
-              <Button size="icon" className="h-11">
-                <Heart />
-              </Button>
             </div>
             <div className="pb-2 text-right text-2xl font-semibold text-muted-foreground">
               ${price}
