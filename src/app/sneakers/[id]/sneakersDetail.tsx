@@ -146,8 +146,8 @@ const DetailCard = ({
             />
           </div>
 
-          <div className="mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
-            <div className="flex gap-1">
+          <div className="relative mt-6 flex flex-wrap-reverse items-start justify-end gap-3 md:mt-0">
+            <div className="absolute bottom-0 right-0 flex gap-1">
               {itemFromCart ? (
                 <Button
                   size="lg"
