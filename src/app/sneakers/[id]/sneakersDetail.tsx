@@ -146,8 +146,8 @@ const DetailCard = ({
             />
           </div>
 
-          <div className="mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
-            <div className="flex gap-1">
+          <div className="relative mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
+            <div className="relative z-10 flex w-full gap-1">
               <Button size="icon" className="h-11">
                 <Heart />
               </Button>
@@ -155,17 +155,22 @@ const DetailCard = ({
                 <Button
                   size="lg"
                   variant="destructive"
+                  className="flex-1"
                   onClick={() => handleRemoveFromCart(id)}
                 >
                   REMOVE ITEM
                 </Button>
               ) : (
-                <Button size="lg" onClick={() => handleAddToCart(id)}>
+                <Button
+                  size="lg"
+                  className="flex-1"
+                  onClick={() => handleAddToCart(id)}
+                >
                   ADD TO CART
                 </Button>
               )}
             </div>
-            <div className="pb-2 text-right text-2xl font-semibold text-muted-foreground">
+            <div className="absolute bottom-0 right-0 pb-2 text-right text-2xl font-semibold text-muted-foreground">
               ${price}
             </div>
           </div>
