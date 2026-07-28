@@ -146,7 +146,7 @@ const DetailCard = ({
             />
           </div>
 
-          <div className="mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
+          <div className="relative mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
             <div className="flex gap-1">
               {itemFromCart ? (
                 <Button
@@ -165,7 +165,7 @@ const DetailCard = ({
                 <Heart />
               </Button>
             </div>
-            <div className="pb-2 text-right text-2xl font-semibold">
+            <div className="absolute bottom-0 -left-6 pb-2 text-2xl font-semibold">
               ${price}
             </div>
           </div>
