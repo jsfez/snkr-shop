@@ -165,7 +165,7 @@ const DetailCard = ({
                 <Heart />
               </Button>
             </div>
-            <div className="pb-2 text-right text-2xl font-semibold text-slate-600">
+            <div className="pb-2 text-right text-2xl font-semibold text-muted-foreground">
               ${price}
             </div>
           </div>
