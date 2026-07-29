@@ -132,39 +132,20 @@ const DetailCard = ({
             </div>
           </div>
 
-          <div className="mt-6 md:mt-0">
-            <div
-              className={cn('mb-1 text-sm', missingSize && 'text-destructive')}
-            >
-              CHOOSE SIZE
-            </div>
-            <SizeToggleGroup
-              value={String(size ?? '')}
-              onValueChange={(value) => setSize(Number(value))}
-              disabledSizes={[6, 8, 9]}
-              disabled={Boolean(itemFromCart)}
-            />
-          </div>
-
           <div className="mt-6 flex flex-wrap-reverse items-start justify-between gap-3 md:mt-0">
-            <div className="flex gap-1">
-              <Button size="icon" className="h-11">
-                <Heart />
+            {itemFromCart ? (
+              <Button
+                size="lg"
+                variant="destructive"
+                onClick={() => handleRemoveFromCart(id)}
+              >
+                REMOVE ITEM
               </Button>
-              {itemFromCart ? (
-                <Button
-                  size="lg"
-                  variant="destructive"
-                  onClick={() => handleRemoveFromCart(id)}
-                >
-                  REMOVE ITEM
-                </Button>
-              ) : (
-                <Button size="lg" onClick={() => handleAddToCart(id)}>
-                  ADD TO CART
-                </Button>
-              )}
-            </div>
+            ) : (
+              <Button size="lg" onClick={() => handleAddToCart(id)}>
+                ADD TO CART
+              </Button>
+            )}
             <div className="pb-2 text-right text-2xl font-semibold text-muted-foreground">
               ${price}
             </div>
